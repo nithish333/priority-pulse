@@ -1,0 +1,21 @@
+.ambulanceImage {
+  width: 500px;
+  height: auto;
+}
+.SideContentWrapper {
+  height: 597px;
+  width: 584px;
+  margin-left: 50px;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
+.sideData {
+  position: absolute;
+  font-size: 20px;
+  line-height: 23px;
+  align-self: start;
+  top: 70%;
+  margin-left: 40px;
+  font-weight: normal;
+}

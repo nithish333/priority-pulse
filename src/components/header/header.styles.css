@@ -1,0 +1,43 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+}
+.navList {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  margin-right: 40px;
+}
+.ProfileImage {
+  width: 86px;
+  height: 76px;
+}
+li {
+  list-style: none;
+  padding: 0 30px;
+}
+li a {
+  text-decoration: none;
+  color: #fdfdfd;
+  font-size: 22px;
+  line-height: 26px;
+  font-weight: bold;
+}
+.title {
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 47px;
+  margin-left: 40px;
+  margin-top: 32px;
+  font-style: normal;
+}
+
+.navList li:nth-child(1) {
+  border: 1px solid white;
+  background-color: #fdfdfd;
+  padding: 5px 14px;
+}
+
+.Home a {
+  color: black;
+}
