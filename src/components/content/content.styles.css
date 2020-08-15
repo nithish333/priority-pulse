@@ -1,16 +1,4 @@
-/* .Content {
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
-  flex-wrap: wrap;
-  overflow-x: hidden;
-  padding: 40px;
-}
 
-@media screen and (max-width: 960px) {
-  .Content {
-  }
-} */
 .Content {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
