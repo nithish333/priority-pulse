@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c850b0b573a482da781cf82b37a4599",
+    "revision": "5151d3c27edb4ce5227198e81777ce4a",
     "url": "/priority-pulse/index.html"
   },
   {
