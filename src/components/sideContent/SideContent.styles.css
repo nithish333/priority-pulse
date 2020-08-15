@@ -1,21 +1,62 @@
-.ambulanceImage {
-  width: 500px;
+/* .ambulanceImage {
+  width: 100%;
   height: auto;
 }
 .SideContentWrapper {
-  height: 597px;
-  width: 584px;
+  width: 50%;
   margin-left: 50px;
   margin-top: 50px;
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
 }
 .sideData {
-  position: absolute;
   font-size: 20px;
   line-height: 23px;
   align-self: start;
-  top: 70%;
   margin-left: 40px;
   font-weight: normal;
+} */
+/* .SideContentWrapper {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: space-evenly;
+}
+.ambulanceImage {
+  width: 500px;
+} */
+.SideContentWrapper {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+}
+.ambulanceImage {
+  width: 70%;
+  margin: auto;
+}
+.sideData {
+  font-size: 18px;
+  line-height: 23px;
+  margin-left: 40px;
+  font-weight: normal;
+  text-align: left;
+  position: absolute;
+  top: 80%;
+  right: 0;
+}
+
+@media screen and (max-width: 640px) {
+  .sideData {
+    position: relative;
+    font-size: 14px;
+    text-align: center;
+    padding: 5px;
+    text-align: left;
+  }
 }

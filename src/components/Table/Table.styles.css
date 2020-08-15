@@ -1,5 +1,8 @@
+.Table {
+  overflow-x: auto;
+}
 .table {
-  width: 90%;
+  width: 1220px;
   margin: 40px auto;
 }
 table,
@@ -7,10 +10,10 @@ th,
 td {
   border-collapse: collapse;
 }
-tr:nth-child(odd) {
+tr:nth-child(even) {
   background-color: #d3d9e0;
 }
-tr:nth-child(even) {
+tr:nth-child(odd) {
   background-color: #fdfdfd;
 }
 th {
@@ -29,6 +32,6 @@ td {
   padding-bottom: 2px;
   font-weight: normal;
 }
-tr:nth-child(even) > td:nth-child(even) {
+tr:nth-child(odd) > td:nth-child(even) {
   background-color: #edf2f7;
 }
