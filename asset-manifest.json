@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/priority-pulse/static/css/main.b1c1e2de.chunk.css",
+    "main.js": "/priority-pulse/static/js/main.1ad44576.chunk.js",
+    "main.js.map": "/priority-pulse/static/js/main.1ad44576.chunk.js.map",
+    "runtime-main.js": "/priority-pulse/static/js/runtime-main.45f6664e.js",
+    "runtime-main.js.map": "/priority-pulse/static/js/runtime-main.45f6664e.js.map",
+    "static/js/2.e633fff8.chunk.js": "/priority-pulse/static/js/2.e633fff8.chunk.js",
+    "static/js/2.e633fff8.chunk.js.map": "/priority-pulse/static/js/2.e633fff8.chunk.js.map",
+    "index.html": "/priority-pulse/index.html",
+    "precache-manifest.26e3ea8f9eafb261238ca862d5096060.js": "/priority-pulse/precache-manifest.26e3ea8f9eafb261238ca862d5096060.js",
+    "service-worker.js": "/priority-pulse/service-worker.js",
+    "static/css/main.b1c1e2de.chunk.css.map": "/priority-pulse/static/css/main.b1c1e2de.chunk.css.map",
+    "static/js/2.e633fff8.chunk.js.LICENSE.txt": "/priority-pulse/static/js/2.e633fff8.chunk.js.LICENSE.txt",
+    "static/media/Ambulance.png": "/priority-pulse/static/media/Ambulance.c287d469.png",
+    "static/media/Profile.png": "/priority-pulse/static/media/Profile.3d9a511a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45f6664e.js",
+    "static/js/2.e633fff8.chunk.js",
+    "static/css/main.b1c1e2de.chunk.css",
+    "static/js/main.1ad44576.chunk.js"
+  ]
+}
