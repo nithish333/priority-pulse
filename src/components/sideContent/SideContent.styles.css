@@ -1,35 +1,4 @@
-/* .ambulanceImage {
-  width: 100%;
-  height: auto;
-}
-.SideContentWrapper {
-  width: 50%;
-  margin-left: 50px;
-  margin-top: 50px;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-}
-.sideData {
-  font-size: 20px;
-  line-height: 23px;
-  align-self: start;
-  margin-left: 40px;
-  font-weight: normal;
-} */
-/* .SideContentWrapper {
-  width: 100%;
-  height: 100%;
-  margin: 0 auto;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
-  align-content: center;
-  justify-content: space-evenly;
-}
-.ambulanceImage {
-  width: 500px;
-} */
+
 .SideContentWrapper {
   width: 100%;
   margin: 0 auto;
